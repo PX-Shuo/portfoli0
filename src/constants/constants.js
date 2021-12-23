@@ -29,6 +29,16 @@ export const projects = [
     code: 'https://github.com/PX-Shuo/pwa-covid19-tracker',
     source: 'https://romantic-panini-b0076a.netlify.app/',
   },
+  {
+    id: 3,
+    image: '/images/java-db-customer.PNG',
+    title: 'Customer Info Database',
+    year: '2019',
+    description: "A school project I did during my Master\'s degree study, made using Java. This program is able to connect to UTS' student-use database and perform CRUD operations, it also has an user interface for input data and perform CRUD commands, this GUI is made using WindowBuilder",
+    stacks: ['Java', 'MYSQL'],
+    code: 'https://github.com/PX-Shuo/pwa-covid19-tracker',
+    source: 'https://romantic-panini-b0076a.netlify.app/',
+  },
 ];
 
 export const TimeLineData = [
