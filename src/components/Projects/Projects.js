@@ -37,7 +37,7 @@ const Projects = () => (
             {source === 'localhost' ? (
               <ExternalLinks localhost>Localhost</ExternalLinks>
             ) : (
-              <ExternalLinks href={source} target='_blank'>Website</ExternalLinks>
+              <ExternalLinks href={source} target='_blank'>Website/Demo</ExternalLinks>
             )}
           </UtilityList>
         </BlogCard>

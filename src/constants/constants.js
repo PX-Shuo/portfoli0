@@ -39,6 +39,16 @@ export const projects = [
     code: 'https://github.com/PX-Shuo/customer-info-db',
     source: 'localhost',
   },
+  {
+    id: 4,
+    image: '/images/consoleapp.jpg',
+    title: 'Console App - Bank System',
+    year: '2019',
+    description: "A school project I did during my Master\'s degree study, made using .Net. It is a simple console application which simulates bank system, you can create accouts, make deposit or withdraw, and etc. Please check the demo video for more details.",
+    stacks: ['C#'],
+    code: 'https://github.com/PX-Shuo/consoleapp-banksystem',
+    source: 'https://youtu.be/b3wHp9YyVWo',
+  },
 ];
 
 export const TimeLineData = [
