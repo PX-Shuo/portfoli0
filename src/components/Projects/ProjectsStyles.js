@@ -102,6 +102,7 @@ padding:1rem 1.5rem;
 background: ${(props) => props.private || props.localhost ? '#7a7373' : '#6b3030'};
 border-radius: 15px;
 transition: 0.5s;
+width: 150px;
 &:hover{
   background: ${(props) => props.private || props.localhost ? '#7a7373' : '#6b3030'};
 }

@@ -49,6 +49,16 @@ export const projects = [
     code: 'https://github.com/PX-Shuo/consoleapp-banksystem',
     source: 'https://youtu.be/b3wHp9YyVWo',
   },
+  {
+    id: 5,
+    image: '/images/unitygame.PNG',
+    title: 'Unity - 3D Game',
+    year: '2019',
+    description: "A school project I did during my Master\'s degree study, made using Unity. It is a 3D game, aiming to kick the balls into the goals to pass each stage, while there are some monsters hunting you. Please check the demo video for more details.",
+    stacks: ['Unity','C#'],
+    code: 'https://github.com/PX-Shuo/uniproject-unitygame',
+    source: 'https://youtu.be/fOffEGuqwKo',
+  },
 ];
 
 export const TimeLineData = [
