@@ -1,6 +1,6 @@
 export const projects = [
   {
-    id: 0,
+    id: 6,
     image: '/images/schabulogo.PNG',
     title: 'Schabu',
     year: '2021',
@@ -10,7 +10,17 @@ export const projects = [
     source: 'https://schabu.com/',
   },
   {
-    id: 1,
+    id: 5,
+    image: '/images/cryptoapp.PNG',
+    title: 'Cryptocurrency App',
+    year: '2021',
+    description: "An app displaying info about cryptocurrencies, data retrieved from RapidAPI using redux toolkit.",
+    stacks: ['React', 'Redux'],
+    code: 'https://github.com/PX-Shuo/cryptoapp',
+    source: 'https://cryptocurrency123.netlify.app/',
+  },
+  {
+    id: 4,
     image: '/images/exercise-tracker.PNG',
     title: 'MERN - Exercise Tracker',
     year: '2021',
@@ -20,7 +30,7 @@ export const projects = [
     source: 'localhost',
   },
   {
-    id: 2,
+    id: 3,
     image: '/images/pwa.PNG',
     title: 'PWA - COVID19 Stats Tracker',
     year: '2021',
@@ -30,7 +40,7 @@ export const projects = [
     source: 'https://romantic-panini-b0076a.netlify.app/',
   },
   {
-    id: 3,
+    id: 2,
     image: '/images/java-db-customer.PNG',
     title: 'Customer Info Database',
     year: '2019',
@@ -40,7 +50,7 @@ export const projects = [
     source: 'localhost',
   },
   {
-    id: 4,
+    id: 1,
     image: '/images/consoleapp.jpg',
     title: 'Console App - Bank System',
     year: '2019',
@@ -50,7 +60,7 @@ export const projects = [
     source: 'https://youtu.be/b3wHp9YyVWo',
   },
   {
-    id: 5,
+    id: 0,
     image: '/images/unitygame.PNG',
     title: 'Unity - 3D Game',
     year: '2019',
