@@ -1,6 +1,6 @@
 export const projects = [
   {
-    id: 6,
+    id: 7,
     image: '/images/schabulogo.PNG',
     title: 'Schabu',
     year: '2021',
@@ -8,6 +8,16 @@ export const projects = [
     stacks: ['React', 'Azure', 'Node'],
     code: 'private',
     source: 'https://schabu.com/',
+  },
+  {
+    id: 6,
+    image: '/images/instagramclone.PNG',
+    title: 'Instagram Clone',
+    year: '2022',
+    description: "This is an instagram clone made with react and firebase (web version 8), it supports user registration & authentication, uploading images, posting, commenting, and \"follow\" other users.",
+    stacks: ['React', 'Firebase'],
+    code: 'https://github.com/PX-Shuo/react-instagram-clone-v2',
+    source: 'https://react-instagram-clone-5ab7e.web.app/',
   },
   {
     id: 5,
@@ -37,7 +47,7 @@ export const projects = [
     description: "A Progressive Web Application which accepts country names from user input, then fetch COVID19 statistics about that country from external API and display it on the screen.",
     stacks: ['React'],
     code: 'https://github.com/PX-Shuo/pwa-covid19-tracker',
-    source: 'https://romantic-panini-b0076a.netlify.app/',
+    source: 'https://pwa-covid19-stats.netlify.app/',
   },
   {
     id: 2,
