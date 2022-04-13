@@ -8,7 +8,7 @@ const Hero = () => (
   <Section row nopadding>
     <LeftSection>
       <SectionTitle main center>Shuo's Portfolio</SectionTitle>
-      <SectionText>I'm currently working as an Front-end developer intern at <b>AI AUSTRALIA</b></SectionText>
+      <SectionText>I'm currently working as a Full-Stack Developer at <b>AI Ventures</b></SectionText>
       {/* <Button onClick={() => window.location = 'https://google.com'}>Button</Button> */}
     </LeftSection>
   </Section>

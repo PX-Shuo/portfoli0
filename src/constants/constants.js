@@ -82,8 +82,6 @@ export const projects = [
 ];
 
 export const TimeLineData = [
-  { year: 2021, text: 'Started working as an Web Developer Intern at AI Australia', },
-  { year: 2020, text: 'Completed Master\'s degree', },
-  { year: 2019, text: 'Started Master study at UTS', },
-  { year: 2018, text: 'Graduated from Western Sydney University', },
+  { year: 2020, text: 'Started working as an Web Developer at AI Ventures', },
+  { year: 2019, text: 'Completed Master of IT at UTS', },
 ];

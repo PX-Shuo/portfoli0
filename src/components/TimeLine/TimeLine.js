@@ -46,7 +46,7 @@ const Timeline = () => {
     <Section id='about'>
       <SectionDivider />
       <SectionTitle>About Me</SectionTitle>
-      <SectionText>In 2018, I finished my Bachelor of Information and Communications Technology study and graduated from Western Sydney University. Then I started studying Master of Information Technology at UTS in 2019, and graduated in the end of 2020. Currently I'm working as a Web Developer Intern at AI AUSTRALIA</SectionText>
+      <SectionText>In 2019, I completed my Master of Information Technology and graduated from University of Technology University. Then I started working at AI Ventures since 2020.</SectionText>
       <CarouselContainer ref={carouselRef} onScroll={handleScroll}>
         <>
           {TimeLineData.map((item, index) => (
